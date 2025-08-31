@@ -3,16 +3,16 @@ const posts = [
   {
     title: "My First Blog Post",
     filename: "blog1.html",
-    preview: "Hello world! 🎉 This is my very first blog post."
+    preview: "Shoop to the noop !"
   },
   {
     title: "Learning CSS",
     filename: "blog2.html",
-    preview: "Today I styled my blog with CSS and it looks awesome!"
+    preview: "Suuuugar to ma hooneeey!"
   },
   {
     title: "Adding JavaScript",
     filename: "blog3.html",
-    preview: "Now my site can generate posts automatically."
+    preview: "Deep di di beep."
   }
 ];
